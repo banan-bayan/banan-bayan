@@ -8,6 +8,8 @@
 
 ![image](https://www.codewars.com/users/banan-bayan/badges/small)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=banan-bayan)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-199-blue)
 
 <img src="https://komarev.com/ghpvc/?username=banan-bayan" alt="banan-bayan"/>
