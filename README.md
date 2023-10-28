@@ -1,4 +1,4 @@
-# <img src="./assets/git.jpg"/>
+<img src="./assets/hithere.png"/>
 
 [![Gmail Badge](https://img.shields.io/badge/-dimariktar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dimariktar@gmail.com)](mailto:dimariktar@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-duhovniy_bomj-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/duhovniy_bomj/)
